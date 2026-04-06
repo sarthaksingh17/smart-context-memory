@@ -1,4 +1,7 @@
-# smart-context-memory
+# smart-context-memory 
+~ claude should think about this
+
+
 A smart memory manager for LLM conversations. Keeps your prompt within token limits automatically — summarizing old messages and retrieving only what's relevant.
 
 ## The problem
